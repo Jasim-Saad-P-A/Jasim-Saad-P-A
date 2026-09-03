@@ -10,7 +10,7 @@
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-I'm a Computer Science student who enjoys building real-world
+I'm a Artificial Intelligence student who enjoys building real-world
 applications and exploring the intersection of **full-stack development
 and AI**.
 
