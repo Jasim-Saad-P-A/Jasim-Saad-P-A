@@ -13,11 +13,10 @@ and AI.
 
 I like understanding how things work from the UI all the way to the
 backend, APIs, databases, and AI systems.
-
+```
 
 ````markdown
 ---
-```
 
 ## `$ cat about.txt`
 
