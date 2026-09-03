@@ -226,10 +226,18 @@ Feel free to connect, collaborate, or discuss interesting projects.
 - 💼 **LinkedIn:** [Jasim Saad P A](https://www.linkedin.com/in/jasim-saad-6b2830327/)
 - 🐙 **GitHub:** [@Jasim-Saad-P-A](https://github.com/Jasim-Saad-P-A)
 
+## `$ git stats`
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Jasim's GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Jasim's Top Languages" />
+</p>
+
 ```text
+
 ╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║             Build. Break. Learn. Build Again. 🚀           ║
-║                                                            ║
+ ║                                                          ║
+  ║          Build. Break. Learn. Build Again. 🚀         ║
+ ║                                                          ║
 ╚════════════════════════════════════════════════════════════╝
 ```
