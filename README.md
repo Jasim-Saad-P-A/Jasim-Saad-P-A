@@ -145,6 +145,7 @@ AI capabilities with full-stack web development.
 
 🔗 [View My Repositories](https://github.com/Jasim-Saad-P-A?tab=repositories)
 
+
 ---
 
 ## `$ tree currently_learning/`
@@ -232,6 +233,22 @@ Feel free to connect, collaborate, or discuss interesting projects.
   <img src="./profile/stats.svg" alt="Jasim's GitHub Stats" />
   <img src="./profile/top-langs.svg" alt="Jasim's Top Languages" />
 </p>
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+# ✨ RANDOM DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> 
+</p> 
+ 
+--- 
 
 ```text
 
