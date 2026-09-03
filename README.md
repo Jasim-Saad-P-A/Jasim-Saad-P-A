@@ -70,7 +70,7 @@ Coming soon...
 
 ## 🤝 Connect With Me
 
-* LinkedIn: Add your LinkedIn URL here
+* LinkedIn: https://www.linkedin.com/in/jasim-saad-6b2830327/
 * GitHub: https://github.com/Jasim-Saad-P-A
 
 ---
