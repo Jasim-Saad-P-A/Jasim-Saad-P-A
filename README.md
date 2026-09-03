@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hey, I'm Jasim Saad 👋
 
-<!--
-**Jasim-Saad-P-A/Jasim-Saad-P-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student who enjoys building practical software and exploring full-stack development and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like turning ideas into working applications — from responsive frontend interfaces and REST APIs to databases, authentication, and AI-powered features.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Database
+
+* MongoDB
+
+### AI / Machine Learning
+
+* Python
+* TensorFlow
+* scikit-learn
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+---
+
+## 🚀 What I'm Building
+
+* Full-stack web applications
+* AI-powered applications
+* REST APIs and backend systems
+* Developer tools and automation
+
+---
+
+## 🌱 Currently Learning
+
+* Java
+* Data Structures & Algorithms
+* System Design
+* AI application development
+* Production-ready full-stack development
+
+---
+
+## 📌 Featured Projects
+
+Coming soon...
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: Add your LinkedIn URL here
+* GitHub: https://github.com/Jasim-Saad-P-A
+
+---
+
+> Build. Break. Learn. Repeat.
+ 
