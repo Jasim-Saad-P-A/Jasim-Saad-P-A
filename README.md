@@ -2,20 +2,21 @@
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
-║                  ~/Jasim-Saad-P-A $ whoami                ║
 ║                                                            ║
-║        Full-Stack Developer • AI/ML Enthusiast            ║
+║                  ~/Jasim-Saad-P-A $ whoami                 ║
+║                                                            ║
+║          Full-Stack Developer • AI/ML Enthusiast           ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
+```
+
 I'm a Computer Science student who enjoys building real-world
-applications and exploring the intersection of full-stack development
-and AI.
+applications and exploring the intersection of **full-stack development
+and AI**.
 
 I like understanding how things work from the UI all the way to the
 backend, APIs, databases, and AI systems.
-```
 
-````markdown
 ---
 
 ## `$ cat about.txt`
@@ -30,9 +31,9 @@ database    : MongoDB
 ai/ml       : Python · TensorFlow · scikit-learn
 learning    : Java · DSA · System Design
 location    : India 🇮🇳
+```
 
 ---
-```
 
 ## `$ ls -la current_focus/`
 
