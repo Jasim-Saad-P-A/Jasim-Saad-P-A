@@ -222,6 +222,12 @@ Interested in:
 Feel free to connect, collaborate, or discuss interesting projects.
 ```
 
+## `$ git contributions`
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Calendar" />
+</p>
+
 ### 🌐 Find Me Online
 
 - 💼 **LinkedIn:** [Jasim Saad P A](https://www.linkedin.com/in/jasim-saad-6b2830327/)
