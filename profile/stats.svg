@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jasim Saad P A&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 124, Total PRs: 52, Total Issues: 0, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 124, Total PRs: 53, Total Issues: 0, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 194.3993314783082;
+        stroke-dashoffset: 193.9786462068715;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >52</text>
+      >53</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
